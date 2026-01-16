@@ -7,3 +7,6 @@ This project is designed to test users’ knowledge through multiple-choice ques
 🎨 Clean and responsive UI
 🔁 Restart quiz option
 💡 Beginner-friendly logic and structure
+
+
+Live preview: 
