@@ -9,4 +9,3 @@ This project is designed to test users’ knowledge through multiple-choice ques
 💡 Beginner-friendly logic and structure
 
 
-Live preview: 
